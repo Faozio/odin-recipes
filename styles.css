@@ -1,7 +1,21 @@
-body {
-    background-color: salmon;
+.card {
+    background-color: #caf0f8;
     color: dimgrey;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 80px;
+    border: 8px inset grey;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    width: 1500px;
+    height: auto;
+    border-radius: 5%;
+}
+#height {
+    height: 1000px;
+}
+body {
+    background-color: bisque;
 }
 p {
     font-size: large;
@@ -14,9 +28,10 @@ ul, ol {
     font-weight: bold;
 }
 a {
-    color: floralwhite;
+    color: red;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: block;
 }
 .heading.one {
     text-align: center;
