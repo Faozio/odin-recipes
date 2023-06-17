@@ -6,4 +6,15 @@ Project to demonstrate basic knowledge of HTML, concepts covered include:
 
 3. Inserting images and multimedia.
 
-Credits: This mini website and all it's related images are acutually copied from the websites <a href="https://www.allnigerianrecipes.com/">All Nigerian Recipes</a>
+Credits: 
+<ul>
+<li>
+<a href="https://www.allnigerianrecipes.com/beans/okpa/">Nigerian Okpa, Okpa di Oku, Okpa Wawa</a>
+</li>
+<li>
+<a href="https://www.allnigerianrecipes.com/cocoyam/achicha-ede/">Achicha Ede (Echicha Ede)</a>
+</li>
+<li>
+<a href="https://www.allnigerianrecipes.com/beans/breadfruit-ukwa/">African Breadfruit (Ukwa)</a>
+</li>
+</ul>
