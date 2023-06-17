@@ -6,6 +6,8 @@ Project to demonstrate basic knowledge of HTML, concepts covered include:
 
 3. Inserting images and multimedia.
 
+Project URL: <a href="https://faozio.github.io/odin-recipes/">Odin Recipes</a>
+
 Credits: 
 <ul>
 <li>
