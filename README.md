@@ -1,10 +1,20 @@
-Project to demonstrate basic knowledge of HTML, concepts covered include:
-
-1. Creating the structure and layout of a web page.
-
-2. Adding text and content.
-
-3. Inserting images and multimedia.
+Project to demonstrate basic knowledge of HTML and CSS concepts like:
+<ul>
+<li>Introduction to HTML and CSS</li>
+<li>Elements and Tags</li>
+<li>HTML Boilerplate</li>
+<li>Working with Text</li>
+<li>Lists</li>
+<li>Links and Images</li>
+<li>The Cascade</li>
+<li>Inspecting HTML and CSS</li>
+<li>The Box Model</li>
+<li>Block and Inline</li>
+<li>Introduction to Flexbox</li>
+<li>Growing and Shrinking</li>
+<li>Axes</li>
+<li>Alignment</li>
+</ul>
 
 Project URL: <a href="https://faozio.github.io/odin-recipes/">Odin Recipes</a>
 
